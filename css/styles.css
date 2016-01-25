@@ -164,7 +164,8 @@ a:hover {
 
 h1.about_title {
     text-align      : center;
-    color           : black;
+    background-color: #212121;
+    color           : white;
 }
 
 .content_title {
@@ -194,11 +195,11 @@ h2.about {
 
 .scriptures_content a {
     font-size : 13px;
-    color     : black;
+    color     : #212121;
 }
 
 .scriptures_content a:hover, .scriptures_content a:focus {
-    color     : black;
+    color     : #212121;
 }
 
 .volumetitle {
@@ -224,7 +225,7 @@ h2.about {
     width           : 15%;
     background-color: white;
     box-shadow      : 0 0 10px #cacaca;
-    color           : #121212;
+    color           : #212121;
     margin          : 0 .5em .5em 0;
     font-size       : 1em;
 }
@@ -238,5 +239,5 @@ h2.about {
 
 .citation_content a {
     font-size : 13px;
-    color     : black;
+    color     : #212121;
 }
