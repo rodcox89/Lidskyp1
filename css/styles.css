@@ -219,14 +219,13 @@ h2.sect {
     flex-direction  : column;
     justify-content : center;
     text-align      : center;
-    height          : 45px;
-    width           : 115px;
-    box-shadow      : 0 0 5px rgb(124, 124, 124);
+    height          : 15%;
+    width           : 15%;
     background-color: white;
-    color           : black;
+    box-shadow      : 0 0 10px #cacaca;
+    color           : #121212;
     margin          : 0 .5em .5em 0;
-    font-size       : 12px;
-    cursor          : pointer;
+    font-size       : 1em;
 }
 
 
