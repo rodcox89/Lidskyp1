@@ -67,7 +67,7 @@ a:hover {
     flex       : 1;
     font-size  : 1.3em;
     text-align: center;
-    font-family: 'Raleway', 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
 }
 
 .nav_hamburger {
@@ -177,16 +177,14 @@ h1.about_title {
 
 h2.sect {
     background-color: rgb(236,226,217);
-    text-align      : center;
+    text-align: center;
 }
-
-.full_width_banner {
-    background-image: url(../media/wood-768.png)
+h2.about {
+    text-align: center;
+    font-size: 12px;
 }
 
 /*scripture style*/
-
-
 .scriptures_content {
     background-color: #fff;
     box-shadow: 0 0 5px rgb(124, 124, 124);
@@ -205,7 +203,7 @@ h2.sect {
 
 .volumetitle {
     font-size: 1.2em;
-    font-family: 'Raleway', 'Open Sans', sans-serif;
+    font-family: 'Roboto', sans-serif;
     padding: .5em .75em;
 }
 
