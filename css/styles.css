@@ -210,7 +210,10 @@ h2.sect {
 /************************************************************************************/
 
 .scriptures_content {
-    background-color: rgb(236,226,217);
+    background-color: #fff;
+    box-shadow: 0 0 5px rgb(124, 124, 124);
+    margin: 5px;
+
 }
 
 .scriptures_content a {
