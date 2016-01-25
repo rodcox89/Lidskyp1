@@ -187,7 +187,7 @@ h2.about {
 
 /*scripture style*/
 .scriptures_content {
-    background-color: #fff;
+    background-color: #F5F5F5;
     box-shadow: 0 0 5px rgb(124, 124, 124);
     margin: 5px;
 
@@ -232,7 +232,7 @@ h2.about {
 
 
 .citation_content {
-  background-color: #fff;
+  background-color: #F5F5F5;
   box-shadow: 0 0 5px rgb(124, 124, 124);
   margin: 5px;
 }
