@@ -221,8 +221,8 @@ h2.about {
     flex-direction  : column;
     justify-content : center;
     text-align      : center;
-    height          : 15%;
-    width           : 15%;
+    height          : 13%;
+    width           : 95px;
     background-color: white;
     box-shadow      : 0 0 10px #cacaca;
     color           : #212121;
